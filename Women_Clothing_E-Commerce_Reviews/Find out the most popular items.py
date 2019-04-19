@@ -44,4 +44,4 @@ class Part3(MRJob):
 if __name__ == '__main__':
     Part3.run()
 
-# !python Part3.py Womens_Clothing_E-Commerce_Reviews.csv > Part3.txt
+# !python Part3.py Womens_Clothing_E-Commerce_Reviews.csv > Output.txt
